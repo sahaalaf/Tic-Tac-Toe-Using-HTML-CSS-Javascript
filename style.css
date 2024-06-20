@@ -7,6 +7,7 @@ body{
     background-color: #003554;
     text-align: center;
     color: white;
+    margin-top: 35px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -29,7 +30,10 @@ body{
     height: 18vmin;
     width: 18vmin;
     border-radius: 15px;
-    font-size: 8vmin;
+    border: none;
+    font-size: 7vmin;
+    color: white;
+    background-color:#001d3d;
 }
 
 .reset-btn{
@@ -42,4 +46,21 @@ body{
     width: 110px;
     font-size: 0.90rem;
     font-weight: 600;
+}
+.reset-btn:hover{
+    background-color: #001d3d;
+    color: rgb(246, 246, 246);
+}
+
+.msg{
+    color: #ffffc7;
+    font-style: italic;
+    font-size: 4vmin;
+    margin-top: 15px;
+}
+.msg-box{
+    height: 30vmin;
+}
+.hide{
+    display: none;
 }
