@@ -1,7 +1,5 @@
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Screenshot](C:\Users\Madina Computers\OneDrive\Desktop\Capture.png)
-
 Welcome to the Tic-Tac-Toe game! This is a classic two-player game implemented in JavaScript, where players take turns marking spaces in a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
 ## How to Play
@@ -23,14 +21,11 @@ Welcome to the Tic-Tac-Toe game! This is a classic two-player game implemented i
 
 ## Preview
 
-![Tic-Tac-Toe Preview](preview.png)
+![Capture](https://github.com/sahaalaf/Tic-Tac-Toe-Using-HTML-CSS-Javascript/assets/161157185/a688bd48-63c8-41a7-931a-59ee4efcd7a2)
 
 ## Setup
 
 1. Clone or download the repository.
 2. Open `index.html` in your preferred web browser.
 
-## License
-
-This project is licensed under the MIT License.
 
